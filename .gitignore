@@ -172,3 +172,10 @@ cython_debug/
 
 # PyPI configuration file
 .pypirc
+
+jigsaw-toxic-comment-classification-challenge/sample_submission.csv
+jigsaw-toxic-comment-classification-challenge/test_labels.csv
+jigsaw-toxic-comment-classification-challenge/test.csv
+jigsaw-toxic-comment-classification-challenge/train.csv
+*.csv
+*.zip
